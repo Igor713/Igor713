@@ -1,4 +1,4 @@
-#### I'm Igor, a front-end developer  
+#### I'm Igor, a fullstack developer  
   
 #### Connect with me  
 <a href="https://linkedin.com/in/igor-matheus-16a786118" target="_blank">
